@@ -75,5 +75,5 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/quora-question-parity-analyzer.git
+   git clone https://github.com/Aryansh-kr/Quora-Question-Parity-Analyzer.git
    
