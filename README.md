@@ -4,6 +4,8 @@
 
 The Quora Question Parity Analyzer aims to detect duplicate questions on Quora, enhancing content quality by identifying semantically similar questions. This project leverages a combination of traditional machine learning and deep learning techniques to achieve high accuracy in duplicate detection.
 
+Dataset link-https://www.kaggle.com/competitions/quora-question-pairs/
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
